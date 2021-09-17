@@ -9,5 +9,6 @@ Advertisers and websites track your online behavior by using cookies that remain
 <p>Schedule regular cleaning 🧹</p>
 You can set up a cleaning schedule for your computer so you don't have to think about it all the time and free up more time.</p>
 <p> Multiple glitches and errors👾</p>
-Over time, your registry can become cluttered with errors and misconfigurations, leading to crashes. Outdated software drivers can also cause similar problems. My program will help you sort out this mess, make your computer more stable, and also tell you when your drivers are out of date.</p>
 
+Over time, your registry can become cluttered with errors and misconfigurations, leading to crashes. Outdated software drivers can also cause similar problems. My program will help you sort out this mess, make your computer more stable, and also inform you about the latest version of the drivers, as well as help you quickly update them.</p>
+<p>PC Health Check</p> Analyzes your computer and recommends quick fixes, then automatically configures and updates it to start and run faster and safer, and tells you when to take your computer for repair.</p>
