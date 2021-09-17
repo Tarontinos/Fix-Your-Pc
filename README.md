@@ -2,8 +2,8 @@
 
 # Fix-Your-Pc
 Remove trash and brakes
-Automatic update ♻️
-Secure 🛡️
+<p>Automatic update</p>
+<p>Secure 🛡️</p>
 Help protect yourself privacy👑
 Doesn't collect data without your consent👾
 Quick installation 🔮
