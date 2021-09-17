@@ -4,8 +4,8 @@
 Remove trash and brakes
 <p>Automatic update</p>
 <p>Secure 🛡️</p>
-Help protect yourself privacy👑
-Doesn't collect data without your consent👾
-Quick installation 🔮
-Schedule regular cleaning 🧹
-Free up your time ⏳
+<p>Help protect yourself privacy👑</p>
+<p>Doesn't collect data without your consent👾</p>
+<p>Quick installation 🔮</p>
+<p>Schedule regular cleaning 🧹</p>
+<p>Free up your time ⏳</p>
