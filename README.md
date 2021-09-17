@@ -2,3 +2,10 @@
 
 # Fix-Your-Pc
 Remove trash and brakes
+Automatic update ♻️
+Secure 🛡️
+Help protect yourself privacy👑
+Doesn't collect data without your consent👾
+Quick installation 🔮
+Schedule regular cleaning 🧹
+Free up your time ⏳
